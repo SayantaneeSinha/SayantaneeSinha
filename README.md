@@ -5,12 +5,12 @@ I build practical projects, experiment with emerging technologies, and learn by 
 
 I am currently working on:
 
-🤖 AI-powered applications & AI agents\
-🧠 Exploring Agentic AI, LLMs & AI agent workflows\
-🌐 Web applications and developer-focused tools\
-🎨 Graphic design & digital interfaces\
-🧠 DSA, problem-solving & software engineering fundamentals\
-🚀 Turning ideas into functional, real-world projects
+ AI-powered applications & AI agents\
+ Exploring Agentic AI, LLMs & AI agent workflows\
+ Web applications and developer-focused tools\
+ Graphic design & digital interfaces\
+ DSA, problem-solving & software engineering fundamentals\
+ Turning ideas into functional, real-world projects
 
 My main Tech Stack and Tools: 
 
