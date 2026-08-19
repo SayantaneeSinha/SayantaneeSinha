@@ -18,7 +18,7 @@ Languages: Python, Java, JavaScript\
 Web: HTML, CSS\
 AI: LLMs, Agentic AI, AI Agents\
 Design: Canva, UI Design\
-Currently Learning: Figma\
+Currently Learning: Figma
 
 Learn → Build → Experiment → Improve → Ship.
 
