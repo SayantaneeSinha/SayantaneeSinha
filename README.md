@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Aspiring Software Developer | AI & Web Enthusiast | Graphic Designer
-I build practical projects, experiment with emerging technologies, and learn by solving real problems.
+##Aspiring Software Developer | AI & Web Enthusiast | Graphic Designer
+##I build practical projects, experiment with emerging technologies, and learn by solving real problems.
 
 I am currently working on:
 
